@@ -1,0 +1,49 @@
+<<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alyesha Hayles Portfolio</title>
+</head>
+<body>
+ 
+
+  <section>
+    <nav>
+      
+        <a href="file:///C:/Users/Alisha/OneDrive/Desktop/2507383_IA1_S1AY27/codes/Index.html.html">Home</a>
+        <a href="file:///C:/Users/Alisha/OneDrive/Desktop/2507383_IA1_S1AY27/codes/Professional.html.html">Professional</a>
+        <a href="file:///C:/Users/Alisha/OneDrive/Desktop/2507383_IA1_S1AY27/codes/Personality.html.html">Personality</a>
+        <a href="file:///C:/Users/Alisha/OneDrive/Desktop/2507383_IA1_S1AY27/codes/Personal-Development1.html.html">Personal-Development</a>
+     
+    </nav>
+  </section>
+  <header>
+        <div class="logo">
+            <h1>Alyesha hayles Portfolio</h1>
+            <p>Computer Science Student</p>
+        </div>
+
+    </header>
+
+  <h2>Welcome To My Portfolio</h2>
+
+
+  <section>
+    <h3>Introduction</h3>
+
+   
+    <a href="mailto:YOURTUTOREMAIL@utech.edu.jm">
+      <img src="School Id.jpeg" alt="School ID Picture">
+    </a>
+
+    <p> Hi! My name is Alyesha Hayles,and my Student Id number is 2507383 
+   and I am a student at the University of Technology, Jamaica,
+   studying computing in the Faculty of Engineer and Computing. 
+   I am passionate about learning new skills, developing my knowledge in
+   technology, and growing both personally and professionally. </p>
+<p> My Motto is everything happens for a reason.</p>
+  </section>
+
+</body>
+</html>
